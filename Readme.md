@@ -2,6 +2,10 @@
 
 ## Overview
 This project analyzes data and provides insights using Python.
+## Screenshots
+assets/1.png
+assets/2.png
+assets/3.png
 
 ## Features
 - Data Cleaning
